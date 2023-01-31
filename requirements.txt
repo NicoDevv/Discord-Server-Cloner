@@ -1,0 +1,4 @@
+colorama
+discord.py==1.7.3
+requests
+discord==1.7.3
